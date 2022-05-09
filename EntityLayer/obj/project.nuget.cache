@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQJnh+/yS5SVRBV0Pn7z6V+E0nQ9EfuYLElkvwVUQ0mahVDoptwmNc+JwNWf4bPT1qTVZpbDK4IBwjdU1+TATA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serda\\Desktop\\SerdarEkremCakir_Homework4\\EntityLayer\\EntityLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serda\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\serda\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
